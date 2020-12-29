@@ -1,5 +1,5 @@
 {
-	"name"  : "workerman/web-msg-sender",
+	"name"  : "webmsg/web-msg-sender",
     "type"  : "project",
     "keywords": ["socket.io"],
     "homepage": "http://www.workerman.net",
