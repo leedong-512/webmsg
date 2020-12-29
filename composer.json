@@ -9,6 +9,16 @@
 		"monolog/monolog": "^1.23",
 		"workerman/phpsocket.io": "^1.1"
     },
+    "repositories": {
+        "0": {
+            "type": "composer",
+            "url": "https://packagist.satis"
+        },
+        "packagist": {
+            "type": "composer",
+            "url": "https://mirrors.aliyun.com/composer/"
+        }
+    },
 	"autoload": {
         "psr-4": {
             "Libs\\": "libs/"
