@@ -1,5 +1,5 @@
 {
-	"name"  : "webmsg/web-msg-sender",
+	"name"  : "leedong/web-msg-sender",
     "type"  : "project",
     "keywords": ["socket.io"],
     "homepage": "http://www.workerman.net",
