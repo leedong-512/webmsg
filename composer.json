@@ -1,0 +1,17 @@
+{
+	"name"  : "workerman/web-msg-sender",
+    "type"  : "project",
+    "keywords": ["socket.io"],
+    "homepage": "http://www.workerman.net",
+    "license" : "MIT",
+    "require": {
+        "workerman/workerman": "^4.0",
+		"monolog/monolog": "^1.23",
+		"workerman/phpsocket.io": "^1.1"
+    },
+	"autoload": {
+        "psr-4": {
+            "Libs\\": "libs/"
+        }
+    }
+}
